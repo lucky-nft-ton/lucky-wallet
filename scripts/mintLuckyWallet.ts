@@ -19,7 +19,7 @@ export async function run(provider: NetworkProvider, args: string[]) {
         provider.sender(),
         {
             // Проверить текущую стоимость в приложении, указать с запасом - сдача будет возвращена
-            value: toNano('0.45'),
+            value: toNano('2.75'),
         },
         {
             $$type: 'LuckyBuy',
