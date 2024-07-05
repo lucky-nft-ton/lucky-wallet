@@ -1,3 +1,17 @@
+### Attention to the jury of The Open League Hackathon! / Вниманию жюри The Open League Hackathon !
+
+The project consists of two repositories:
+TMA: https://github.com/lucky-nft-ton/lucky-wallet-tma
+Smart contracts: https://github.com/lucky-nft-ton/lucky-wallet
+
+In order to fully use the application, you must have at least one container on your TON wallet. You can create it inside the application (cost about 2,4 TON) or write https://t.me/x1y1x3 and we will send you a container for testing.
+
+Проект состоит из двух репозиториев:
+ТМА: https://github.com/lucky-nft-ton/lucky-wallet-tma
+Смарт-контракты: https://github.com/lucky-nft-ton/lucky-wallet
+
+Для того чтобы полноценно использовать приложение, необходимо наличие хотя бы одного контейнера на вашем TON кошельке. Вы можете создать его внутри приложения (стоимость около 2,4 TON) или написать https://t.me/x1y1x3 и мы пришлём вам контейнер для проведения тестирования.
+
 # Lucky Wallet
 Smart NFT Container for your NFTs & Jettons
 
@@ -21,6 +35,8 @@ Lucky Wallet is your personal and secure smart container for storing and collect
 Telegram Mini App: https://t.me/Lucky_wallet_bot/App?startapp=buy_EQBSJFjmxQaroq--g52UqojwSJJwA6JSqeYhJcfRrNwEqhiX
 
 NFT Collection: https://getgems.io/collection/EQBpqnrjhql5jbMLvKocqKFL0_fMQOwCtDQlDCFOiG98WT0C
+
+Presentation video: https://youtu.be/FmPvABqFyX0
 
 Telegram channel (RU): https://t.me/nft_crossing
 
