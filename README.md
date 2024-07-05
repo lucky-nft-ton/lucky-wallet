@@ -40,6 +40,9 @@ Presentation video: https://youtu.be/FmPvABqFyX0
 
 Telegram channel (RU): https://t.me/nft_crossing
 
+## Thanks for
+https://github.com/howardpen9/nft-template-in-tact
+
 ### Генерация кастомного адреса (с заданным окончанием)
 
 1. Выполнить установку:

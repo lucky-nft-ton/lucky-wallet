@@ -1,8 +1,10 @@
 import "./message.tact";
 import "./lucky_wallet.tact";
+
 /*
   LUCKY BANK
   author: @a3_ton
+  based on: https://github.com/howardpen9/nft-template-in-tact
 
   Коллекция Lucky Wallet
   
@@ -77,7 +79,7 @@ contract LuckyBank {
     }
 
     // ------------------ Private  ------------------ //
-     fun mint(sender: Address, msgValue: Int, itemIndex: Int) {
+    fun mint(sender: Address, msgValue: Int, itemIndex: Int) {
         let nft_init: StateInit = self.getNftItemInit(itemIndex);
         send(SendParameters{
                 to: contractAddress(nft_init),
@@ -98,7 +100,7 @@ contract LuckyBank {
         );
     }
 
-     fun getNftItemInit(item_index: Int): StateInit {
+    fun getNftItemInit(item_index: Int): StateInit {
         return initOf LuckyWallet(myAddress(), item_index);
     }
 

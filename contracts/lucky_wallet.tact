@@ -1,8 +1,8 @@
 import "./message.tact";
-
 /*
   LUCKY WALLET
   author: @a3_ton
+  based on: https://github.com/howardpen9/nft-template-in-tact
 
   NFT Lucky Wallet - Ваш личный безопасный контейнер, для хранения TON, NFT и Jetton.
   
